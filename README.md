@@ -1,4 +1,4 @@
-```
+
 # BASIC-ANDROID-_EX_01
 BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 AIM:
