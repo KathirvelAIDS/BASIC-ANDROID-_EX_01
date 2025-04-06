@@ -1,4 +1,4 @@
-
+```
 # BASIC-ANDROID-_EX_01
 BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 AIM:
@@ -21,10 +21,10 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
-
+```
 PROGRAM
-DEVELOPED BY :Narendra
-REGISTER NO: 212221040117
+DEVELOPED BY :KATHIRVEL A
+REGISTER NO: 212221230047
 MainActivity.java:
 package com.example.andriodlifecycle;
 
